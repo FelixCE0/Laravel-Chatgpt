@@ -3209,16 +3209,8 @@
             ],
             "authors": [
                 {
-                    "name": "Matt Butcher",
+                    "name": "Felix E Correa Hidalgo",
                     "email": "technosophos@gmail.com"
-                },
-                {
-                    "name": "Matt Farina",
-                    "email": "matt@mattfarina.com"
-                },
-                {
-                    "name": "Asmir Mustafic",
-                    "email": "goetas@gmail.com"
                 }
             ],
             "description": "An HTML5 parser and serializer.",
